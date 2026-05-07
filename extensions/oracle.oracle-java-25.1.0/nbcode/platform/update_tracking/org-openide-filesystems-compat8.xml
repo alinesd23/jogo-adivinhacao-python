@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.filesystems.compat8">
+    <module_version install_time="1774002374023" last="true" origin="installer" specification_version="9.39">
+        <file crc="2830097391" name="core/org-openide-filesystems-compat8.jar"/>
+    </module_version>
+</module>
